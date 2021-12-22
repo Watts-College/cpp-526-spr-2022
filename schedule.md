@@ -3,31 +3,31 @@ layout: schedule
 title: Schedule
 
 canvas: 
-  assignment_url: 'https://canvas.asu.edu/courses/88304/assignments'
-  yellowdig_url: 'https://canvas.asu.edu/courses/88304/assignments/2253262'
+  assignment_url: 'https://canvas.asu.edu/courses/108490/assignments'
+  yellowdig_url: 'https://canvas.asu.edu/courses/108490/assignments/2839386'
   
 lab-due-dates:
-  lab-01: 'SAT July 10'
-  lab-02: 'SAT July 17'
-  lab-03: 'SAT July 24'
-  lab-04: 'SAT July 31'
-  lab-05: 'SAT Aug 07'
-  lab-06: 'FRI August 10'
+  lab-01: 'FRI Jan 14'
+  lab-02: 'FRI Jan 21'
+  lab-03: 'FRI Jan 28'
+  lab-04: 'FRI Feb 04'
+  lab-05: 'FRI Feb 11'
+  lab-06: 'FRI Feb 18'
  
 discussion-dates:
-  topic-00: 'FRI July 02'
-  topic-01: 'FRI July 09'
-  topic-02: 'FRI July 16'
-  topic-03: 'FRI July 23'
-  topic-04: 'FRI July 30'
-  topic-05: 'FRI Aug 06'
-  topic-06: 'FRI Aug 10'
+  topic-00: 'Tues Jan 18'
+  topic-01: 'Tues Jan 25'
+  topic-02: 'Tues Feb 01'
+  topic-03: 'Tues Feb 08'
+  topic-04: 'Tues Feb 15'
+  topic-05: 'Tues Feb 22'
+  topic-06: 'Tues Mar 01'
   
 final-project:
-  due-date: 'FRI Aug 10'
+  due-date: 'Tues Mar 1'
 
 code-through:
-  due-date: 'FRI Aug 10'
+  due-date: 'Tues March 11'
   
 ---
  
