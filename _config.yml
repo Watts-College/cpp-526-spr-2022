@@ -41,9 +41,9 @@ header:
 - title: Resources
   url: resources/
 # - title: Yellowdig
-#   url: https://www.yellowdig.com/board/43114
+#   url: https://asu-online.yellowdig.app/community/17592423770657
 # - title: Canvas
-#  url: https://canvas.asu.edu/courses/29528
+#  url: https://canvas.asu.edu/courses/108490
 - title: Get Help
   url: help/
 
@@ -53,14 +53,14 @@ header:
 
 url :               "https://ds4ps.github.io"
 baseurl:            "/cpp-526-sum-2021"
-course_url:         "http://ds4ps.org/cpp-526-sum-2021/"
+course_url:         "https://watts-college.github.io/cpp-526-spr-2022/"
 title:              DS4PS # don't change this
 
 github_info:
     username:          DS4PS # Github location of the course
     branch:            master
-    website-repo:      cpp-526-sum-2021
-    course-repo:       cpp-526-sum-2021
+    website-repo:      cpp-526-spr-2022
+    course-repo:       cpp-526-spr-2022
 
 
 
