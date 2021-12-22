@@ -51,8 +51,8 @@ header:
 
 # GITHUB CONFIGURATIONS 
 
-url :               "https://ds4ps.github.io"
-baseurl:            "/cpp-526-sum-2021"
+url :               "https://watts-college.github.io"
+baseurl:            "/cpp-526-spr-2022"
 course_url:         "https://watts-college.github.io/cpp-526-spr-2022/"
 title:              DS4PS # don't change this
 
