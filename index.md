@@ -14,24 +14,24 @@ info:
  course_number: CPP 526 
  course_level: Graduate 
  course_website: 'https://canvas.asu.edu/courses/108490'
- course_start_end_dates: June 30 - August 10, 2021
+ course_start_end_dates: January 10 - March 11, 2021
  course_prerequisites:  
  class_meets_when:  Asynchronous  
  class_meets_where:  Online
  discussion_board_url: 'https://watts-college.github.io/cpp-526-spr-2022/help/'
 
 instructor:
--  name: Jamison Crawford
+-  name: Giovanni Circo
    title: Instructor 
-   email: jrcrawf7@asu.edu
+   email: gmcirco42@gmail.com
    office_location: 
-   website_url: 'https://rpubs.com/JamisonCrawford'
-   github_url: 'https://github.com/JamisonCrawford' 
+   website_url: 
+   github_url: 'https://github.com/gmcirco' 
    twitter_url: 
-   scholar_url: 
-   linked_in_url: 'https://www.linkedin.com/in/jamisoncrawford/'
-   office_hours_time: See Schedule
-   office_hours_app_url: 'https://calendly.com/jamisoncrawford/20min'
+   scholar_url: 'https://scholar.google.com/citations?user=6ja2D_cAAAAJ&hl=en'
+   linked_in_url: 
+   office_hours_time: Available, by appointment
+   office_hours_app_url: 'https://calendly.com/gmcirco42/15min'
    office_hours_location: Zoom
    
 
