@@ -72,11 +72,10 @@ Submit Buttons -
 
 ## About Your Instructor
 
-Play the video below to learn a bit more about your instructor for the course, Jamison Crawford.
+Play the video below to learn a bit more about your instructor for the course, Gio Circo.
 
-* Visit his [GitHub](https://github.com/jamisoncrawford) profile
-* View his [RPubs](https://rpubs.com/jamisoncrawford) portfolio
-* Connect on [LinkedIn](https://www.linkedin.com/in/jamisoncrawford/)
+* Visit his [GitHub](https://github.com/gmcirco) profile
+* View his [GoogleScholar](https://scholar.google.com/citations?user=6ja2D_cAAAAJ&hl=en) page
 
 <br>
 
