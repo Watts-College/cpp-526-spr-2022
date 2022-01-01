@@ -31,7 +31,7 @@ instructor:
    scholar_url: 'https://scholar.google.com/citations?user=6ja2D_cAAAAJ&hl=en'
    linked_in_url: 
    office_hours_time: Available, by appointment
-   office_hours_app_url: 'https://calendly.com/gmcirco42/15min'
+   office_hours_app_url: 'https://calendly.com/gmcirco42/15min?back=1&month=2022-01'
    office_hours_location: Zoom
    
 
