@@ -57,7 +57,7 @@ course_url:         "https://watts-college.github.io/cpp-526-spr-2022/"
 title:              DS4PS # don't change this
 
 github_info:
-    username:          DS4PS # Github location of the course
+    username:          Watts-College # Github location of the course
     branch:            master
     website-repo:      cpp-526-spr-2022
     course-repo:       cpp-526-spr-2022
